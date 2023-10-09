@@ -1,4 +1,4 @@
-Pr
+grab = 잡아 = java
 ---
 Discord : [Discord](https://discord.gg/YcTSn5N)
 
