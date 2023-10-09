@@ -1,6 +1,6 @@
 grab = 잡아 = java
 ---
-Discord : [Discord](https://discord.gg/YcTSn5N)
+Discord : [Discord](https://discord.gg/Hk4PDBvcjE)
 
 Email : [dyoh1379@gmail.com](mailto:dyoh1379@gmail.com)
 
